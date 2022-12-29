@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/DaveGrishma.github.io/static/css/main.1c2a98a5.chunk.css",
+    "main.js": "/DaveGrishma.github.io/static/js/main.1c48a408.chunk.js",
+    "main.js.map": "/DaveGrishma.github.io/static/js/main.1c48a408.chunk.js.map",
+    "runtime-main.js": "/DaveGrishma.github.io/static/js/runtime-main.26c251e9.js",
+    "runtime-main.js.map": "/DaveGrishma.github.io/static/js/runtime-main.26c251e9.js.map",
+    "static/css/2.2c6c2f19.chunk.css": "/DaveGrishma.github.io/static/css/2.2c6c2f19.chunk.css",
+    "static/js/2.10802ac9.chunk.js": "/DaveGrishma.github.io/static/js/2.10802ac9.chunk.js",
+    "static/js/2.10802ac9.chunk.js.map": "/DaveGrishma.github.io/static/js/2.10802ac9.chunk.js.map",
+    "static/js/3.208fe3d0.chunk.js": "/DaveGrishma.github.io/static/js/3.208fe3d0.chunk.js",
+    "static/js/3.208fe3d0.chunk.js.map": "/DaveGrishma.github.io/static/js/3.208fe3d0.chunk.js.map",
+    "index.html": "/DaveGrishma.github.io/index.html",
+    "static/css/2.2c6c2f19.chunk.css.map": "/DaveGrishma.github.io/static/css/2.2c6c2f19.chunk.css.map",
+    "static/css/main.1c2a98a5.chunk.css.map": "/DaveGrishma.github.io/static/css/main.1c2a98a5.chunk.css.map",
+    "static/js/2.10802ac9.chunk.js.LICENSE.txt": "/DaveGrishma.github.io/static/js/2.10802ac9.chunk.js.LICENSE.txt",
+    "static/media/Grishma_Dave_Resume.f2cb69f4.pdf": "/DaveGrishma.github.io/static/media/Grishma_Dave_Resume.f2cb69f4.pdf",
+    "static/media/github.22cfdd1c.png": "/DaveGrishma.github.io/static/media/github.22cfdd1c.png",
+    "static/media/instagram.81d74f5b.png": "/DaveGrishma.github.io/static/media/instagram.81d74f5b.png",
+    "static/media/jsprojects.69d8a7d9.png": "/DaveGrishma.github.io/static/media/jsprojects.69d8a7d9.png",
+    "static/media/monitAir.3e3d2837.png": "/DaveGrishma.github.io/static/media/monitAir.3e3d2837.png",
+    "static/media/profile_pic.524aa3df.jpeg": "/DaveGrishma.github.io/static/media/profile_pic.524aa3df.jpeg",
+    "static/media/sd.f6c3c4d1.png": "/DaveGrishma.github.io/static/media/sd.f6c3c4d1.png",
+    "static/media/val.daa120f4.png": "/DaveGrishma.github.io/static/media/val.daa120f4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26c251e9.js",
+    "static/css/2.2c6c2f19.chunk.css",
+    "static/js/2.10802ac9.chunk.js",
+    "static/css/main.1c2a98a5.chunk.css",
+    "static/js/main.1c48a408.chunk.js"
+  ]
+}
