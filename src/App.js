@@ -13,7 +13,6 @@ import "aos/dist/aos.css";
 import { useEffect } from "react";
 import React, { Route, Routes } from "react-router-dom";
 import PageNotFound from "./Pages/PageNotFound";
-import Jsprojects from "./Pages/Jsprojects";
 
 function App() {
   useEffect(() => {
